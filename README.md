@@ -7,7 +7,7 @@ To evaluate and compare the performance of advanced 2024 prompting tools across 
 
 ---
 
-## **Algorithm **
+## **Algorithm**
 
 ### **1. Define Scope & Dataset**
 
