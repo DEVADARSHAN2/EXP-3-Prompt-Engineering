@@ -67,7 +67,7 @@ To evaluate and compare the performance of advanced 2024 prompting tools across 
 
 ---
 
-### ** Case 1: Summarizing General Text**
+### **Case 1: Summarizing General Text**
 
 **Prompt:**
 *“Summarize the following text into three sentences:
@@ -102,7 +102,7 @@ Artificial intelligence is rapidly evolving and is transforming industries such 
 
 
 
-### ** Case 2: Technical Question Answering**
+### **Case 2: Technical Question Answering**
 
 **Prompt:**
 *“What is the role of power electronics in Vehicle-to-Grid (V2G) systems?”*
@@ -136,7 +136,7 @@ Artificial intelligence is rapidly evolving and is transforming industries such 
 
 
 
-### ** Case 3: Summarizing Renewable Energy Text**
+### **Case 3: Summarizing Renewable Energy Text**
 
 **Prompt:**
 *“Summarize the following passage into a short paragraph:
@@ -171,7 +171,7 @@ Renewable energy sources, such as solar, wind, and hydropower, are increasingly 
 
 
 
-## **📊 Comparative Evaluation**
+## **Comparative Evaluation**
 | **Platform**    | **Case 1: Summarization (General AI Text)** | **Case 2: Technical Q\&A (V2G)** | **Case 3: Summarization (Renewables)** | **Average Score** |
 | --------------- | ------------------------------------------- | -------------------------------- | -------------------------------------- | ----------------- |
 | **ChatGPT**     |  5/5 – Balanced, Clear, Concise            |  5/5 – Accurate, Technical      |  5/5 – Clear, Balanced                | **5.0**           |
@@ -183,7 +183,7 @@ Renewable energy sources, such as solar, wind, and hydropower, are increasingly 
 
 ---
 
-## ** Observations & Insights**
+## **Observations & Insights**
 
 * **ChatGPT (OpenAI):**
   Outstanding in combining clarity, depth, and natural tone. Excellent for both academic and real-world applications.
@@ -202,7 +202,7 @@ Renewable energy sources, such as solar, wind, and hydropower, are increasingly 
 
 ---
 
-## ** Conclusion**
+## **Conclusion**
 
 The experiment revealed **ChatGPT** as the top-performing prompting tool in 2024 across use cases. It consistently delivered high-quality outputs with clarity, relevance, and depth. **Claude** followed closely, excelling in clarity and phrasing. **Cohere Command** proved technically robust but less conversational. **Bard/Gemini** offered simplicity at the cost of depth, while **Meta AI** functioned as a baseline model.
 
